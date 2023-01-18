@@ -1,6 +1,6 @@
 # Tes Coding React.JS 01
 
-Soal dari uTub : Dea Adrizal
+Soal dari uTub : Dea Afrizal
 
 ## Soal
 
