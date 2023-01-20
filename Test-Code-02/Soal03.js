@@ -6,8 +6,3 @@ const descending = numbers.slice().sort((a, b) => b - a);
 console.log(`origininal : ${numbers}`);
 console.log(`sorted ascending: ${ascending}`);
 console.log(`sorted ascending: ${descending}`);
-
-let ale = 0;
-console.log(ale++);
-console.log(++ale);
-console.log(ale);
