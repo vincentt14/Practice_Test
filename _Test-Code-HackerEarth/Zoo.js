@@ -1,8 +1,6 @@
 const x = "o";
 const y = "z";
 
-// y === 2x
-
 const test1 = "zzoooo";
 const test2 = "zzzoooo";
 const test3 = "zzzoooooo";
