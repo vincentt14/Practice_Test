@@ -13,3 +13,12 @@ for (let i = buah.length - 1; i >= 0; i--) {
 }
 console.log(hasil);
 
+// cara kedua
+const putarBalik = (kata) => {
+  const arr = kata.split("");
+  arr.reverse();
+  kata = arr.join("");
+  console.log(kata);
+};
+
+putarBalik("ayam");
