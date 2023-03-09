@@ -14,6 +14,20 @@ Soal dari Lecture : Hactiv8
 		bool
 	**/
 
+1. CHALLANGE 1 : 
+	menampilkan nilai i : 21 fmt.Printf("%T \n", i) // contoh : fmt.Printf("%v \n" i)<br>
+	menampilkan tipe data dari variabel i<br> 
+	menampilkan tanda %<br>
+	menampilkan nilai boolean j : true<br>
+	menampilkan nilai boolean j : true<br>
+	menampilkan unicode russia : Я (ya)<br>
+	menampilkan nilai base 10 : 21<br>
+	menampilkan nilai base 8 :25<br>
+	menampilkan nilai base 16 : f<br>
+	menampilkan nilai base 16 : F 13<br>
+	menampilkan unicode karakter Я : U+042F var k float64 = 123.456;<br>
+	menampilkan float : 123.456000<br>
+	menampilkan float scientific : 1.234560E+02
 
 `Framework : none`
 `Library : none`
