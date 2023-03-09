@@ -1,6 +1,6 @@
 # Practice_Test
-Kumpulan latihan tes coding dengan JS murni, React, PHP, Laravel etc
+Kumpulan latihan tes coding dengan JS murni, React, PHP, Laravel, Go etc
 
-`Soal diambil dari Youtube, Website dll`
+`Soal diambil dari Youtube, Website, Hactiv8 lecture dll`
 
 ## Tekan Folder untuk melihat lebih detail mengenai soal dan solusi
