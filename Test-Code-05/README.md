@@ -28,6 +28,10 @@ Soal dari Lecture : Hactiv8
 	menampilkan unicode karakter Я : U+042F var k float64 = 123.456;<br>
 	menampilkan float : 123.456000<br>
 	menampilkan float scientific : 1.234560E+02
+	
+1. Buatlah sebuah program go dengan output yang diharapkan menggunakan for
+1. Buatlah sebuah program go dengan implementasi perulangan for dan kombinasi if-else dengan output yang diharapkan
+
 
 `Framework : none`
 `Library : none`
