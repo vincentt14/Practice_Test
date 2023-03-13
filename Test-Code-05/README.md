@@ -31,6 +31,7 @@ Soal dari Lecture : Hactiv8
 	
 1. Buatlah sebuah program go dengan output yang diharapkan menggunakan for
 1. Buatlah sebuah program go dengan implementasi perulangan for dan kombinasi if-else dengan output yang diharapkan
+1. Buatlah sebuah program go dengan output yang diharapkan menggunakan function
 
 
 `Framework : none`
