@@ -33,7 +33,7 @@ Soal dari Lecture : Hactiv8
 1. Buatlah sebuah program go dengan implementasi perulangan for dan kombinasi if-else dengan output yang diharapkan
 1. Buatlah sebuah program go dengan output yang diharapkan menggunakan function
 1. Buatlah sebuah service berupa CLI untuk menampilkan data teman-teman kalian dikelas.Contohnya, ketika kalian menjalankan perintah go run biodata.go 1maka data yang akan muncul adalah data teman kalian dengan absen no 1. Data yang harus ditampilkan yaitu:●Nama●Alamat●Pekerjaan●Alasan memilih kelas Golang Gunakanlah struct dan function untuk menampilkan data tersebut.*Kalian bisa menggunakan os.Args untuk mendapatkan argument pada terminal.
-
+1. Buatlah 2 concurrency dengan GOROUTINE dengan 2 data yang berbeda dengan tipe data interface keduanya
 
 `Framework : none`
 `Library : none`
