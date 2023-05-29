@@ -6,7 +6,7 @@ Q = "You are given an integer N where N represents the number of working days. Y
 
 Q = "TASK = Determine the employee rating."
 
-let workload = [2, 3, 7, 8, 7, 6, 3, 8, 12, 11, 12, 10];
+let workload = [8, 90, 6, 4, 2, 31, 31, 2, 4, 8, 8, 90];
 let pass = [];
 
 const solve = (workload) => {
