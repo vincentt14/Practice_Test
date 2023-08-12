@@ -5,12 +5,12 @@
 // customers only have to pay 3k for 1 cup of the most expensive Coffee
 // Promo only L, A and C
 // must spend 50k to get Promo
-var totalPay = 0;
-var lCount = 0;
-var aCount = 0;
-var cCount = 0;
-var wCount = 0;
 var totalPayment = function (order) {
+    var totalPay = 0;
+    var lCount = 0;
+    var aCount = 0;
+    var cCount = 0;
+    var wCount = 0;
     var orderArr = order.split('');
     for (var i = 0; i < orderArr.length; i++) {
         if (orderArr[i] === "A") {
@@ -44,5 +44,7 @@ var totalPayment = function (order) {
     console.log(aCount, cCount, lCount, wCount, totalPay);
     return -1;
 };
+totalPayment('L');
+totalPayment('LCW');
 totalPayment('ALA');
 //# sourceMappingURL=jenius-coffee-promo.js.map

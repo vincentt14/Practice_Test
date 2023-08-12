@@ -7,13 +7,13 @@
 // Promo only L, A and C
 // must spend 50k to get Promo
 
-let totalPay = 0;
-let lCount = 0;
-let aCount = 0;
-let cCount = 0;
-let wCount = 0;
-
 const totalPayment = (order: string): number => {
+    let totalPay = 0;
+    let lCount = 0;
+    let aCount = 0;
+    let cCount = 0;
+    let wCount = 0;
+
     const orderArr: string[] = order.split('');
     for(let i = 0; i < orderArr.length; i++){
         if(orderArr[i] === "A"){
@@ -47,4 +47,6 @@ const totalPayment = (order: string): number => {
     return -1;
 }
 
+totalPayment('L');
+totalPayment('LCW');
 totalPayment('ALA');
