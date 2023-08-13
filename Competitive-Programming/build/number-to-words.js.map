@@ -1,0 +1,1 @@
+{"version":3,"file":"number-to-words.js","sourceRoot":"","sources":["../number-to-words.ts"],"names":[],"mappings":"AAAA,kCAAkC;AAClC,6BAA6B;AAC7B,6CAA6C;AAC7C,iCAAiC;AAEjC,IAAM,aAAa,GAAG,UAAC,MAAc;IAEnC,iCAAiC;IACjC,eAAe;IACf,OAAO,MAAM,CAAA;AACf,CAAC,CAAA;AAED,OAAO,CAAC,GAAG,CAAC,aAAa,CAAC,EAAE,CAAC,CAAC,CAAA;AAE9B,mDAAmD;AACnD,sBAAsB;AACtB,aAAa;AACb,gBAAgB;AAChB,2CAA2C"}
