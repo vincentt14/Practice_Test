@@ -3,8 +3,6 @@
 // there will no negative number as the input
 // returned value = all lowercase
 var numberToWords = function (number) {
-    // let words = number.toString();
-    // return words
     return 'zero';
 };
 console.log(numberToWords(11));

@@ -5,8 +5,7 @@
 
 const numberToWords = (number: number): string => {
 
-  // let words = number.toString();
-  // return words
+  
   return 'zero'
 }
 
