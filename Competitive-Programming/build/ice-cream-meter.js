@@ -3,27 +3,6 @@
 // 2. from the 4th delay member = pay 10000 / late
 // 3. if the total fines in a month >= 50000 then fines * 2
 // 4. number of days late is at least 0 <= 23 days
-// const iceCreamMeter = (lateNum: number): number => {
-//   const temp: number[] = [];
-//   let totalPay = 0;
-//   if(lateNum === 0 || lateNum < 0){
-//     return 0
-//   }
-//   for (let i = 1; i <= lateNum; i++) {
-//     if (i === 0 || i <= 3) {
-//       temp.push(5000);
-//     } else if (i === 4 || i <= 23) {
-//       temp.push(10000);
-//     }
-//   }
-//   if (temp.reduce((a, b) => a + b) >= 50000) {
-//     totalPay = temp.reduce((a, b) => a + b) * 2;
-//   } else {
-//     totalPay = temp.reduce((a, b) => a + b);
-//   }
-//   return totalPay;
-// };
-// optimize
 var iceCreamMeter = function (lateNum) {
     if (lateNum <= 0) {
         return 0;
