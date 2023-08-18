@@ -29,3 +29,9 @@ const calculatePoint = (totalKill: number): number => {
   }
   return result;
 };
+
+console.log(calculatePoint(10))
+console.log(calculatePoint(27))
+console.log(calculatePoint(33))
+console.log(calculatePoint(120))
+console.log(calculatePoint(60))
